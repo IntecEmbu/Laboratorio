@@ -1,7 +1,7 @@
-![Banner](https://user-images.githubusercontent.com/107084747/173166815-484bb8f7-1bd8-401c-9ef8-0100edd603bb.png)
+![Banner](https://user-images.githubusercontent.com/107084747/173197771-5e77522d-0a1b-43d0-b420-119eb5c9cae5.png)
 
 
-> ### Sistema de gerenciamento de laboratorio escolar
+> ### Sistema de gerenciamento de laboratório escolar
 
 <br>
 
