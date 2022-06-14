@@ -1,0 +1,17 @@
+.react-calendar {
+  width: 500px !important;
+}
+
+.caption-box {
+  margin-top: 40px;
+  height: 50px;
+  width: 500px;
+  background: #D9D9D9;
+}
+
+.caption-box p {
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px;
+}
