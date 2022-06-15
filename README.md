@@ -7,16 +7,18 @@
 <br>
 
 > ## Objetivo 🎯
-  ### ...
+  ### Modelar e determinar os campos obrigatórios do banco de dados do sistema. Partindo desse ponto, a criação do banco de dados foi realizada e com isso, o começo das relações entre tabelas e começar os inputs.
 
 <br>
 
 > ## Sobre 💡
-  ### ...
+  ### Iniciar as relações entre tabelas e começar a trabalhar com os selects. 
   
 <br>
 
 > ## Especialidades ⚙️
-  - ### ...
-  - ### ...
-  - ### ... 
+  - ### Determinação de privilégios de usuários;
+  - ### Gerenciamento de requisições;
+  - ### Organização de laboratórios;
+  - ### Cadastramento de patrimonios ativos e não ativos;
+  - ### Facilitador para solicitar reposições e manutenção de materiais.
