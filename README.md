@@ -12,7 +12,7 @@
 <br>
 
 > ## Sobre 💡
-  ### Iniciar as relações entre tabelas e começar a trabalhar com os selects. 
+  ### Iniciar as relações entre tabelas e começar a trabalhar com os selects, sub query e relacionamento. 
   
 <br>
 
