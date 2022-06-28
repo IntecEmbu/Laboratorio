@@ -4,7 +4,7 @@ function Index(props) {
   return (
     <div>
       <div class="cut"></div>
-      <header className='header'>{`${props.page}`}</header>
+      <header className='header'><h2>{`${props.page}`}</h2></header>
     </div>
   );
 }

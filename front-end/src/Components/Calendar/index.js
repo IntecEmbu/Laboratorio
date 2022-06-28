@@ -6,7 +6,7 @@ import './Style.css';
 function Index() {
   const [value, onChange] = useState(new Date());
   return (
-    <div>
+    <div className='calendar-margin'>
         <div className='caption-box'><p>Calendário</p></div>
         <Calendar onChange={onChange} value={value} />
     </div>
