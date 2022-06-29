@@ -4,7 +4,7 @@ Trabalho realizado para a conclusão de curso de [`Desenvolvimento de Sistemas`]
 
 ## @Requisitos
 
-[`Node js`](https://nodejs.org/en/), [`mysql`](https://www.mysql.com/), [`React js`] ([https://www.react](https://pt-br.reactjs.org/) juntamente com o framework [`Next.js`](https://nextjs.org/)
+[`Node js`](https://nodejs.org/en/), [`mysql`](https://www.mysql.com/), [`React js`]([https://www.react](https://pt-br.reactjs.org/) juntamente com o framework [`Next.js`](https://nextjs.org/)
 
 ## @Iniciando...
 
